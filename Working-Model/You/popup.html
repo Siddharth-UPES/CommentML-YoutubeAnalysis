@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>YouTube Comment Insight</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="container">
+    <h2>🔎 YouTube Comment Insight</h2>
+
+    <!-- Mode selector -->
+    <select id="mode">
+      <option value="topic">🔎 Search by Topic</option>
+      <option value="video">🎬 Analyze Single Video</option>
+    </select>
+
+    <input type="text" id="topic" placeholder="Enter topic or paste YouTube link..." />
+    <button id="searchBtn">Search</button>
+
+    <div id="results"></div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
