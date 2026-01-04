@@ -9,7 +9,7 @@ However, the sheer volume of comments makes **manual review impractical**.
 
 * Analyze sentiments in comments,
 * Detect trends and recurring themes,
-* Summarize feedback for faster decision-making.
+* Summarize feedback for the faster decision-making.
 
 This project not only helps influencers optimize their content strategies but also makes audience engagement more **data-driven and efficient**.
 
